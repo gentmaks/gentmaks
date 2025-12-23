@@ -21,5 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gentmaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gentmaks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gentmaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 🧠 LeetCode Stats:
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=gmax23_32&theme=dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
