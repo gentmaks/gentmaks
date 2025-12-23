@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Incoming SWE intern @ Uber🚗<br>- Prev SWE intern @ Remitly 💶<br>- Dartmouth Engineering 💻<br>- MMA fan 🥊<br>
+- Incoming SWE intern @ Uber🚗<br>
+- Prev SWE intern @ Remitly 💶<br>
+- Dartmouth Engineering 💻<br>
+- MMA fan 🥊<br>
 
 
 ## 🌐 Socials:
